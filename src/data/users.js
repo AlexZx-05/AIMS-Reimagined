@@ -3,7 +3,7 @@ const users = [
     id: "cs22b1010",
     email: "cs22b1010@iiitr.ac.in",
     password: "123456",
-    name: "Aryan",
+    name: "Deepak",
     role: "student",
     commonEmail: "aryan.personal@gmail.com",
 
